@@ -18,7 +18,7 @@
  - [Out of the Box API](https://wave.devdojo.com/docs/features/api)
  - [Voyager Admin](https://wave.devdojo.com/docs/features/admin)
  - [Customizable Themes](https://wave.devdojo.com/docs/features/themes)
-
+ - [Copyright Protection](https://copyprotect.app)
 
 ## Demo
 View a live [demo here](https://wave.devdojo.com), or deploy your own instance to DigitalOcean, by clicking the button below.
